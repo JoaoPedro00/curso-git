@@ -11,8 +11,10 @@
 
  | Aulas | Resumos |
  | ----- | -------- |
- | Aula 01 | [Resumo](resumos/aula-01.md)|
- | Aula 02 | [Resumo]()|
+ | Aula 01 | [Resumo](resumos/aula-1.md)|
+ | Aula 02 | [Resumo](resumos/aula-2.md)|
+ | Aula 03 | [Resumo](resumos/aula-3.md)|
+ | Aula 04 | [Resumo](resumos/aula-4.md)|
 
 ```
 git init
