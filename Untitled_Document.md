@@ -16,8 +16,7 @@
  | Aula 04 | [Resumo](resumos/aula-4.md)|
 
 ```
-git init
-```
+
 
 
 
